@@ -1,0 +1,8 @@
+# Mac
+.DS_Store
+
+# zip
+archive.zip
+
+# node.js
+node_modules
